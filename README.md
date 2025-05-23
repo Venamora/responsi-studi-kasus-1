@@ -1,6 +1,6 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Steven Namora Roha Saragi Napitu 
+Nama : Steven N.R. Saragi Napitu
 NIU : 505930
 Sesi : B3  
 Secret String : a54bac24838a5fc440d9c9026e74f1058c8677e76a4e8a4863119839789aa03920250523082952
